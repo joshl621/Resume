@@ -1,0 +1,129 @@
+Joshua (En Young) Lai
+Alhambra, CA. 91801
+Cell: (626) 617 - 2106
+Email: Joshua.Lai.621@gmail.com
+________________________________________
+
+ -{ SUMMARY }-
+
+Software Release Engineer/Manager, Information Security Analyst and PCI Compliance Lead skilled to tackle complicated problems with positive attitudes and no bias when working with team members. Utilized and enhanced the skills and techniques developed over the course of a career in performing various projects. The expertise, abilities, dependability and accomplishments were valued throughout the completed tasks. Obtained skills in the following areas:
+
+ - Subversion
+ - TortoiseSVN
+ - Git
+ - Bitbucket
+ - Jira
+ - ClearQuest
+ - Trac
+ - Splunk
+ - PL/SQL Developer
+ - Unix/Linux
+ - Smartsheet
+ - LDAP/ADAM
+ - AirWatch
+ - Toad
+ - Perl/C/C++
+ - LDIFDE/CSVDE
+ - Teradata
+ - Java
+ - Nessus
+ - MS Visio
+
+ -{ WORK EXPERIENCE }-
+
+Software Release Engineer/Configuration Management (2012 - 2017) - Smart and Final Stores - Commerce, CA.
+Performed software releases independently in liaison with the development team, managing source control for configuration items in test and production environments on various platforms.  Managed over forty source controlled repositories. Duties are as followed:
+ - Released applications to ALL environments in a timely manner to meet company milestones according to the policy, processes and procedures.
+ - Implemented/integrated ClearQuest and Subversion to optimize the change management process to increase developer's workflow.
+ - Created Subversion repositories and managed user accesses for all projects.
+ - Provided install logs to Auditors during Audit season using custom Unix/Linux scripts and Subversion history logs.
+ - Written Software Configuration Management Plan (SCMP) and other internal change management/release procedures for various projects.
+ - Facilitated training for developers of best practices in creating Subversion branches for development releases
+ - Facilitated training for developers on how to use commands and functions using the TortoiseSVN, SVN and ClearQuest tools.
+ - Staged and performed releases using the TortoiseSVN and SVN (In Unix/Linux/AIX Environments) tools using methods such as Merging, Branching and Tagging.
+ - Performed Mobile.ipa releases using the AirWatch tool.
+ - Performed Database Object releases using custom scripts and the PL/SQL Developer tool.
+ - Created and modified custom scripts to execute and log the installation processes on the Linux/Unix/AIX environment.
+ - Implemented branching methods for production releases in order to ensure implementers used the approved software configuration items for production release (e.g. Created SVN Tags for DB Release).
+ - Co-chaired weekly Software Change Control Board meetings and chaired the meeting on an as needed basis.
+ - Utilized SmartSheet for Project Management using the Kanban and Gantt methods
+ - Currently in the process of utilizing Git with BitBucket for versioning and JIRA for Defect Tracking
+
+
+Information Security Analyst (2014 - 2017) - Smart and Final Stores - Commerce, CA.
+Analyze reported security events using the Splunk Enterprise Security tool on a daily basis. When further security investigations are needed, the following will be utilized: Lansweeper, Symantec Endpoint Protection Manager, Palo Alto Logs and TippingPoint SMS Clients.  Also completed in the following:
+ - Installed and configured Splunk Enterprise, Splunk ES and Splunk TA's.
+ - Configured Splunk Enterprise Instances (Deployer, Heavy Forwarders, Indexers and SearchHead) to meet Splunk Best Practice recommendations 
+ - Created Splunk Reports and Dashboards for users.
+ - Created and maintained Cardholder Data Environment and Splunk Architecture Diagram using MS Visio
+ - Attended Splunk 2014 and 2016 conferences as well as Splunk Live events
+ - Led and completed the 2016 PCI DSS 3.1 Compliance audit.
+ - Led the current TR-39/PCI PIN Security Compliance audit.
+ - Review Palo Alto, AirDefense and TippingPoint Daily Reports
+ - Utilize Lansweeper for Asset investigations
+ - Utilizes web provided trusted resources to investigate reported security events. e.g. IP Lookup, etc.
+ - Created Nessus Policies to automate Vulnerability Scans and PEN Test
+
+
+QA Analyst - CTFL (2010 - 2013) - Smart and Final Stores - Commerce, CA.
+Performed tests on various applications built on various platforms, such as, Mobile Devices (iPhone & iPad), .NET, Oracle, UNIX including the Mainframe system.  Worked closely with various development teams on major projects and determined which levels of test method to employ in order to meet the company's milestone and collecting required documents. Also completed in the following:
+ - Analyzed, tested, implemented, and improved software development process by utilizing accurate configuration items data in each of its releases; it reduced release cycle time by half of its original.
+ - Performed tests on financial systems with developers and users to meet the business requirements.
+ - Performed tests on the Mainframe system with the developer using Code Reviews and Unit Testing.
+ - Performed independent testing on the Portal using Test Cases provided by the developer using the Functional Area and Performance Testing methods to validate accuracy of the business sales reports.
+ - Performed tests on the Supply Chain/Store systems and hands on testing to meet the users and business needs.
+ - Performed tests on Mobile applications using the iPhone and iPad by ensuring the data displayed are accurate and viewable which provided users with confident when viewing sales reporting.
+ - Wrote queries to verify and compare data for tests using PL/SQL Developer, TOAD and Teradata tool, as a result, enhanced data integrity.
+
+QS Coordinator (2006 - 2010) - Smart and Final Stores - Commerce, CA.
+Utilized my problem solving skills to the extent in using the ClearQuest tool to manage Software Change Requests. The skills and knowledge that I have achieved from was the development life cycle and the release process with various IT development teams.  Also completed in the following:
+ - Involved in all SQA activities to ensure all documents are provided and requirements meets the SQA Entrance and Exit Criteria.
+ - Administering and maintaining ClearQuest to accurately generate the current state of a bug fix/feature enhancement and the overall project evaluation for project managers/developers to better assist on their software development.
+ - Inherited responsibilities for all documentations on all Change Requests submitted to ClearQuest
+ - Made independent responsible mature decisions during critical times to meet the business needs
+ - Facilitated and generated reports for Change Management Control Board Meetings. Distributed the reports to the board which provided clear descriptions of the latest status and state of projects.
+
+Access Request/LDAP Administrator (2006 - 2010) - Smart and Final Stores - Commerce, CA.
+Ensure all requested access to applications meets the user's identity and business needs in a timely manner. Excel in team collaboration and solution brainstorming. Applying and maintaining a friendly service mentality is a must in order to satisfy all users' needs. The followings are additional information of my responsibilities and involvements:
+ - Utilized the company's API In House build Application called LDAP.
+ - Acquired the hands-on experience and knowledge working in a professional environment as a team member that allowed mental maturity and the highest respect for all aspects of the engineering field.
+ - Interacted with associates in all departments
+ - Constantly maintained a sturdy communication with Application Business Owners, Customers and Application Administrators
+ - Enforced all required policies to ensure all procedures meet auditing requirements
+ - Improved the Access Request Plans and Procedure documentation to clearly identify the Access Request's processes
+ - Involved in auditing reviews and provided all required documents
+ - Created Perl Scripts, Batch Files, LDIFDE & CSVDE to maintain the integrity of LDAP's data.
+ - Performed Quarterly and Semi-Annual internal audit reviews.
+
+ 
+Computer Technician (2004 - 2006) - Systempro Computer Inc. - City of Industry, CA
+In this prominent diminutive company, I have enhanced my skills and knowledge of a simple computer.  I have also assisted as a salesperson and a technician at most of the computer fair. This position requires a person with swift problem solving skills and must be versatile. The followings are the knowledge and skills that I have gained from and used for this company:
+ - Utilized my multitasking skills by building multiple computers while installing drivers and software on others
+ - Enhanced my skills and perception to a higher level of quality control
+ - Assembling a whole new robust computer from scratch
+ - Gained a better understanding of how does the computer hardware and software collaborated with each other
+ - Gained further knowledge of various computer part's features and functions
+ - Run tests on every new system to assure all drives are robust before releasing the system with a QA perspective
+ - Assisted on phone and human interaction with Tech Support when required
+ - Handled most of the Quality Control to insure a high quality computer system
+
+ 
+Intern Software Engineer (1999 - 2000) - MODCOMP Inc - Ft. Lauderdale, FL
+Excel in team collaboration and solution brainstorming.  Applied rigor and creativity that combines my knowledge that I've learned from school research; human-computer interaction, and graphic design to solve diverse GUI design issues.
+ - Utilized the company's API (Viewmax) to modernize the user interface
+ - Co-wrote programs and implemented them using HTML and JavaScript also assisted in minor Java Applications
+ - Implemented new GUI demos for both Pocket PC (using Web Clipping) and cellular phones (using WML and WMLScript) that enhanced salesperson to insure an error free environment when presenting the company's demo to vendors.  Managed all phases of GUI for the interactive and transactional e-commerce site for the demo.
+ - Acquired the hands-on experience and knowledge working in a professional environment as a team member that allowed mental maturity and the highest respect for all aspects of the engineering field.
+
+
+
+ -{ EDUCATION }-
+B.S., Computer Engineering, Florida Atlantic University, Bacon Raton, FL - December 14, 2001
+
+
+
+ -{ CERTIFICATES AND TRAINING }-
+ - Certificate for Introduction to Cyber Security - 2015
+ - Certificate for Advanced Excel 2003 - 2011
+ - Certificate for Intermediate Excel 2003 - 2011
+ - Certified Tester, Foundation Level - 2010
