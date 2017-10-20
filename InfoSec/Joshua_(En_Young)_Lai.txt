@@ -45,6 +45,8 @@ Analyzed and investigated security events to mitigate suspicious activities and 
  - Utilize Splunk, Lansweeper and CounterAct for Asset investigations
  - Utilizes web provided trusted resources to investigate reported security events. e.g. IP Lookup, etc.
  - Created Nessus Policies to automate Vulnerability & Audit Scans and PEN Tests
+ - Worked closely with Network Engineers to remediate security events reported by the MSSP
+ - When further investigations are required, the IPS/IDS consoles are utilized
 
 
 Software Release Engineer/Configuration Management (2012 - 2017) - Smart and Final Stores - Commerce, CA.
